@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zeyu Ping's Personal Website"
 description              : "This website is my personal academic homepage, focusing on research, publications, and academic achievements in robot learning. "
-repository               : "23336196/Zeyu_Ping.github.io"
+repository               : "ZeyuPing/ZeyuPing.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
