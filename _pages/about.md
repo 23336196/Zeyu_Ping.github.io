@@ -43,10 +43,7 @@ I will be pleasant if you want to operate with me. DO NOT HESITATE TO EMAIL ME!
 
 
 # 💬 Invited Talks
-<!--
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+-Not yet, I will try my best!
 
 # 💻 Internships
 - *2024.05 - Present*, COIR Lab, Guangzhou.
