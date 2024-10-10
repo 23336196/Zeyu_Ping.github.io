@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "23336196"# e.g., "github username"
+  github           : "23336196"    # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "Y231502pzy"
 
 # Reading Files
 include:
